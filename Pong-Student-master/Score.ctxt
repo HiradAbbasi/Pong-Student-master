@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Score\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=onLeft
+comment1.target=Score(boolean)
+comment1.text=\r\n\ Default\ constructor\ for\ Score.\ Score\ is\ responsible\ to\ showing\ and\ adding\ \r\n\ the\ score\ whenever\ a\ player\ scores\ a\ point.\r\n\ \r\n\ @param\ There\ is\ a\ boolean\ called/set\ to\ "onLeft"\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Score\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ displayScore()
+comment3.text=\r\n\ displayScore\ -\ Displays\ and\ adds\ the\ score\ to\ the\ score\ string\ \r\n\ of\ each\ player.\ It\ also\ sets\ the\ scoreChanged\ variable\ to\ false.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ countScore()
+comment4.text=\r\n\ countScore\ -\ adds\ score\ to\ the\ player\ that\ has\ scored.\ It\ also\ sets\ the\ \r\n\ scoreChanged\ variable\ to\ true\ which\ means\ that\ the\ score\ has\ been\ changed.\ \r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=int\ getScore()
+comment5.text=\r\n\ getScore\ -\ returns\ the\ playerScore.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=6

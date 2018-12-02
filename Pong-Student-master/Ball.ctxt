@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ball\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Ball()
+comment1.text=\r\n\ Default\ constructor\ for\ the\ object\ Ball.\ It\ sets\ the\ rotaion\ of\ the\r\n\ ball\ from\ 0\ to\ 360\ making\ randomized\ \ when\ the\ game\ is\ first\ started.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ checkCollision()
+comment3.text=\r\n\ checkCollision\ -\ checks\ to\ see\ if\ the\ Ball\ object\ has\ came\ to\ contact\ with\r\n\ the\ Paddle\ objects.\ If\ that\ is\ the\ case\ it\ resets\ the\ world\ and\ adds\ a\ score\ \r\n\ to\ the\ winning\ player.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=v
+comment4.target=void\ setVelocity(int)
+comment4.text=\r\n\ setVelocity\ sets\ the\ velocity\ of\ the\ ball\ to\ be\ initilized\ to\ V.\r\n\ \r\n\ @param\ There\ is\ an\ Integer\ V\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=5
